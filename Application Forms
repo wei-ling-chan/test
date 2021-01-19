@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>APPLICATION</title>
+    <style type ="text/css">
+    body{
+    width: 80%;margin:auto ;border:solid 2px black ;padding: 40px;
+    }
+
+
+    #header{
+    
+        border: solid 0px#00D6D6;
+        background-color:#00D6D6;
+        margin-bottom: 10px;
+        text-align: center;
+        line-height:60px ;
+        height: 60px;
+        font-weight: bold;
+        font-size: 30px;
+    }
+    .title{
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 10px;
+
+    }
+    .point{
+        margin-bottom: 0px;
+        margin-top: 20px;
+        background-color: #F5F5F5;
+        padding: 10px;
+    
+    
+    }
+    </style>
+
+</head>
+<body>
+<div id="header">Application Forms</div>
+<div id="content">
+    <div class="Introduction">
+        <div class="title">個人簡介</div>
+        <div class="content">我是生技系畢業，目前在公司擔任研究助理，畢業後在生技領域有5年的工作職涯，年近31歲了，也開始思索著職涯發展，若想往上發展，就需要讀博士班，但對做實驗雖然不反感但也沒特別熱衷，所以也不會想再往上讀但想到5年後10年後，自己的職涯天花板，便對未來感到困惑，也開始思考是否要轉換跑道，剛好跟有在軟體公司上班的朋友討論，便覺得或許可以嘗試往軟體工程師發展，開始了一系列的嘗試。</div>
+    </div>
+    <hr/>
+    <div class="question">
+        <div class="point">
+            <div class="title">1.為什麼想成為(網站)工程師</div>
+            <div class="content">學習資源很好找、能累積經驗技術、喜歡從問題中尋找原因解決問題，且平均薪資比一般產業高。</div>
+        </div>
+        <div class="point">
+            <div class="title">2.為了成為工程師，曾經做過什麼努力?</div>
+            <div class="content">為了探索自己對寫程式是否有興趣以及要往哪個方向前進，曾嘗試參加勞動部為期2個月的Python 樹梅派課程、Android APP物聯網課程。除此之外，也尋找線上課程(如: Udemy、六角學院、Youtube等線上資源)。其中，發現彭彭老師的課程循序漸進由淺入深，讓原本什麼都不會的新手，一步步對網頁技術有了基礎的了解，剛好老師最近開了軟體工程師扶持課程便決定參加此次的計畫。</div>
+        </div>
+        <div class="point">
+            <div class="title">3.對於工程師的職業想像是什麼?</div>
+            <div class="content">技術日新月異演進快速，需要不斷學習新的技術。要有除錯解決問題的能力，有專案時程的壓力。</div>
+        </div>
+        <div class="point">
+            <div class="title">4.如果參與這個計畫，會怎麼安排學習時間?</div>
+            <div class="content">目前是在職中，平日的工作時間是早上8:30至下午5:30，周休二日。時間上的規劃是每周學習41小時，平日學習時數5小時，分別在早上7至8點1小時及晚上8至12點4小時，假日則安排8小時早上8:00到17:00，假日視情況增加時數。
+                會議的部分，因為實驗是自主安排完成，可彈性安排時間工作，故每周的會議可以安排時間參加。
+                </div>
+        </div>
+        <div class="point">
+            <div class="title">5.如果參與這個計畫，預期會碰到什麼困難，你打算怎麼解決他?</div>
+            <div class="content">老師在說明上有說明，主要是要去完成老師指定的專案，培養解決問題的能力，因此預期會遇到的困難可能是做不出功能、做不出專案，做不出的原因可能是要做的技術超過自己原本所學，那就需要學習怎麼下關鍵字，蒐集更多文件與資料，參考別人是如何使用，先模仿、理解，再思考如何應用，若同一個問題還是無法解決超過原本預定應該要完成的時間，就會找同學一起討論，或請技術導師指點方向。
+                另外，預期會遇到困難需要更多時間解決問題，所以除了假日視情況增加時數外，也有先前工作所累積的補修與特休可供學習的時數。若前三個月能通過一次次的專案作業，那後面幾個月就會考慮離職全心準備衝刺。
+        </div>       
+        </div>
+
+
+    </div>
+
+
+</div>
+
+</body>
+</html>
+
